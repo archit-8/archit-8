@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **archit442singh@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/175qusMSOamXbVBveIHVZrYvFnEUnpQPV/view?usp=drive_link](https://drive.google.com/file/d/175qusMSOamXbVBveIHVZrYvFnEUnpQPV/view?usp=drive_link)
+- 📄 Know about my experiences https://drive.google.com/file/d/1Rm7sgYrkUt255ZYko9hb8qRDGgd4sMaW/view?usp=sharing
 
 - ⚡ Fun fact **coding ,music and coffee are best combination**
 

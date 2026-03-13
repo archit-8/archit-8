@@ -1,29 +1,130 @@
 <h1 align="center">Hi 👋, I'm Archit Singh Chauhan</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">Java Backend Developer | Spring Boot | Azure | Kubernetes</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=archit-8&label=Profile%20views&color=0e75b6&style=flat" alt="archit-8" /> </p>
+<p align="center">
+Backend Engineer with ~2 years of experience building scalable enterprise applications in the financial domain.
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=archit-8" alt="archit-8" /></a> </p>
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=archit-8&label=Profile%20views&color=0e75b6&style=flat" alt="archit-8" />
+</p>
 
-- 🔭 I’m currently working on **fintech**
+---
 
-- 🌱 I’m currently learning **next.js nest.js**
+## 👨‍💻 About Me
 
-- 👯 I’m looking to collaborate on **dsa and full stack**
+* 💻 Java Backend Developer with **2+ years of experience**
+* 🏢 Currently working at **Tata Consultancy Services**
+* 🏦 Contributing to **enterprise financial / wealth management systems**
+* 🚀 Building **scalable backend services and REST APIs using Java & Spring Boot**
+* ☁️ Working with **Azure Cloud and containerized applications**
+* ⚙️ Experience with **Kubernetes for container orchestration**
+* 🧠 Practicing **Data Structures, System Design and Backend Architecture**
+* 🤝 Open to collaborating on **Java backend and distributed systems projects**
 
-- 🤝 I’m looking for help with **system design**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/archit-8](https://github.com/archit-8)
+## 🛠️ Tech Stack
 
-- 📝 I regularly write articles on [hashnode](hashnode)
+### Backend
 
-- 💬 Ask me about **full stack(MERN),dsa, poetry and tech world**
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40"/>
+</p>
 
-- 📫 How to reach me **archit442singh@gmail.com**
+* Java
+* Spring Boot
+* REST APIs
+* Microservices Architecture
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1Rm7sgYrkUt255ZYko9hb8qRDGgd4sMaW/view?usp=sharing
+---
 
-- ⚡ Fun fact **coding ,music and coffee are best combination**
+### Database
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+</p>
+
+* SQL
+* Database design
+* Query optimization
+
+---
+
+### Cloud & DevOps
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
+</p>
+
+* Microsoft Azure
+* Kubernetes
+* Git
+* Postman
+
+---
+
+## 📂 Projects
+
+All my projects are available here:
+
+👉 https://github.com/archit-8
+
+I mainly work on:
+
+* Java backend services
+* Spring Boot microservices
+* API development
+* System design practice projects
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/archit-singh1921/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+
+<a href="https://www.leetcode.com/archit-8" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+</a>
+
+<a href="https://instagram.com/silent___8" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+</a>
+
+</p>
+
+📧 Email: **[archit442singh@gmail.com](mailto:archit442singh@gmail.com)**
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=archit-8&show_icons=true&locale=en&layout=compact" />
+</p>
+
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=archit-8&show_icons=true&locale=en" />
+</p>
+
+<p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=archit-8" />
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+☕ Coffee + Coding + Music = My perfect debugging environment.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
